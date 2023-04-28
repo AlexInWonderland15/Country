@@ -1,4 +1,4 @@
-# Alex Crider - CIS261 - Week 4 - Country
+## Alex Crider - CIS261 - Week 4 - Country
 
 def display_menu():
     print("COMMAND MENU")
