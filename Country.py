@@ -48,9 +48,9 @@ def delete(countries):
         print("There is nbo country with that code.")
 
 def main():
-    countries = {"CA:" "Canada",
-                 "US:" "United States",
-                 "MX:" "Mexico"}
+    countries = {"CA": "Canada",
+                 "US": "United States",
+                 "MX": "Mexico"}
 
     display_menu()
     while True:
